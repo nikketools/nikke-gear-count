@@ -57,6 +57,10 @@ that EXP is worth.
 Email **nikketoolsbugreport@gmail.com**. If the app fails to recognize an image,
 please **attach that image** — it directly helps improve detection accuracy.
 
+### PATCH note
+2026.06.22 v0.0.1 first release
+2026.06.23 v0.0.3 fix typo, improve OCR accuracy
+
 ### Donation
 
 If this tool helps you, you can support development here:
