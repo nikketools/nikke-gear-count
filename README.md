@@ -60,6 +60,7 @@ please **attach that image** — it directly helps improve detection accuracy.
 ### PATCH note
 2026.06.22 v0.0.1 first release
 2026.06.23 v0.0.3 fix typo, improve OCR accuracy
+2026.06.23 v0.0.4 fix auto update feature
 
 ### Donation
 
